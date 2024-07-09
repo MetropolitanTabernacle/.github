@@ -1,4 +1,4 @@
 # Metropolitan Tabernacle
 Download [**Our App**](https://metropolitantabernacle.org/met-tab-app/) on Google Play and the App Store now!
 
-![Banner](https://metropolitantabernacle.org/NewMT/media/cssimgs/large-sermon-poster.jpg)
+![Banner]([https://metropolitantabernacle.org/NewMT/media/cssimgs/large-sermon-poster.jpg](https://cdn.metropolitantabernacle.org/images/tabernacle-poster.jpg))
